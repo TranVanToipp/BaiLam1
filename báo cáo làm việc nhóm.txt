@@ -1,0 +1,14 @@
+1 dự án phần mềm sẽ có rất nhiều member tham gia vậy
+thì làm sao để quản lí được source code của các
+thành viên
++ mỗi người code 1 máy khác nhau vậy thì làm thế nào để 
+ghép lại 1 thể thống nhất
+. Cầm USB đi copy code từng người rồi nộp cho người 
+quản lí à (không các bạn nhé)
+Mã nguồn của các bạn ở trên máy thì được liên kết với 1 
+hệ thống quản lí sourc code riêng phổ biến hiện nay
+ đó là GIT
+.Khi các bạn hoàn thành 1 tag thì các bạn cần phải đẩy
+code lên hệ thống đó, hệ thống này sẽ giám sát sự thay đổi
+của mã nguồn theo thời gian, cũng như phân tách ra từng 
+phiên bản 
